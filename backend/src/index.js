@@ -23,10 +23,6 @@ app.use(cors({
 
 
 
-
-app.get("/", (req, res) => {
-  res.send("Welcome To my Chat app Server side");
-})
 app.use("/api/auth",authRouter );
 app.use("/api/messages",messageRouter );
 
