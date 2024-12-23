@@ -1,0 +1,1 @@
+ react-router-dom react-hot-toast install -D tailwindcss postcss autoprefixer -D daisyui@latest axios zustand

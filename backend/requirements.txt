@@ -1,0 +1,1 @@
+cloudinary express mongoose dotenv cookie-parser bcryptjs jsonwebtoken cors morgan multer socket.io cookie-parser
